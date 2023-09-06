@@ -1,0 +1,12 @@
+Program: ["sadia"];
+Date: [30 / 8 / 2023];
+var famousPerson = "Albert Einstein";
+var famousQuote = "Imagination is more important than knowledge.";
+var message = "".concat(famousPerson, " once said, \"").concat(famousQuote, "\"");
+console.log(message);
+Program: ["sadia"];
+Date: [30 / 8 / 2023];
+console.log(5 + 3);
+console.log(10 - 2);
+console.log(4 * 2);
+console.log(16 / 2);
